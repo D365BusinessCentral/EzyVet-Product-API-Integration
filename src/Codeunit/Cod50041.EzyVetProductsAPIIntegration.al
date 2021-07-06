@@ -2,7 +2,6 @@ codeunit 50041 "EzyVet Product API Integration"
 {
     trigger OnRun()
     begin
-
     end;
 
     procedure CheckSetup(var lErrorMsgonSetups: Text)
